@@ -1,4 +1,3 @@
-# Funix_Java_ASM03
 Digital bank application
 
 1. Mô tả ứng dụng
